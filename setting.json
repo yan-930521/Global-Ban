@@ -1,0 +1,37 @@
+{
+  "name":"bot",
+  "owner_id":[
+    "823885929830940682",
+    "848164182334898216"
+  ],
+  "prefix":"b!",
+  "commands":{
+    "HELP":{
+      "name":"help",
+      "description":"commands memu"
+    },
+    "BAN":{
+      "name":"ban",
+      "description":"try to ban a user from all server"
+    },
+    "BANLIST":{
+      "name":"banlist",
+      "description":"ban a user if he/she is in the global tobanlist"
+    },
+    "SUPPORT":{
+      "name":"support",
+      "description":"[join our server](https://discord.gg/BvksCXHksK)"
+    },
+    "DEV":{
+      "name":"devinfo",
+      "description":"our dev team"
+    },
+    "INVITE":{
+      "name":"invite",
+      "description":"invite me to your server"
+    }
+  },
+  "embed":{
+    "color":"#fafad2"
+  }
+}
