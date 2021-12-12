@@ -36,7 +36,7 @@ client.on('ready', async () => {
   client.user.setPresence({
     status: "online"
   }).then(()=>{
-    client.user.setActivity(`${config.prefix}${config.command["HELP"].name} | 
+    client.user.setActivity(`${config.prefix}${config.commands["HELP"].name} | 
     ${client.guilds.cache.size} servers`,{
       type: "PLAYING"
     });
