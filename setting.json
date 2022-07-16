@@ -8,27 +8,31 @@
   "commands":{
     "HELP":{
       "name":"help",
-      "description":"commands memu"
+      "description":"功能列表 , 含有:white_check_mark:反應代表已讀取!"
     },
     "BAN":{
       "name":"ban",
-      "description":"try to ban a user from all server"
+      "description":"停權用戶 , 對方無法加入含有<@919442864071643216>機器人的群組! , 含有:white_check_mark:反應代表已讀取!"
     },
     "BANLIST":{
       "name":"banlist",
-      "description":"ban a user if he/she is in the global tobanlist"
+      "description":"使用此功能<@919442864071643216>將會傳送給停權用戶[類似警告訊息] , 含有:white_check_mark:反應代表已讀取!"
     },
     "SUPPORT":{
       "name":"support",
-      "description":"[join our server](https://discord.gg/BvksCXHksK)"
+      "description":"<@919442864071643216>支援區 , 含有:white_check_mark:反應代表已讀取!"
+    },
+    "UNBAN":{
+      "name":"unban",
+      "description":"解除停權 , 需要到[支援區](https://discord.gg/D9hWKmest8)進行!"
     },
     "DEV":{
       "name":"devinfo",
-      "description":"our dev team"
+      "description":"<@919442864071643216>開發者資訊 , 含有:white_check_mark:反應代表已讀取!"
     },
     "INVITE":{
       "name":"invite",
-      "description":"invite me to your server"
+      "description":"<@919442864071643216>邀請連結 , 含有:white_check_mark:反應代表已讀取!"
     }
   },
   "embed":{
